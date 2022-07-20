@@ -31,8 +31,8 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=maulana&&theme=xcode)](https://github.com/Beller220) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maulana" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maulana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maulana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="maulana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maulana&show_icons=true&locale=en&theme=tokyonight" alt="maulana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulana&&theme=tokyonight" alt="rishavchanda" /></p>
